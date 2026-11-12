@@ -1,4 +1,4 @@
-# Novelist Bakery - Bakery & Cake Pre-order System
+# SweetCraft - Bakery & Cake Pre-order System
 
 Aplikasi mobile pemesanan kue dan produk bakery berbasis UMKM. Mendukung pembelian produk siap saji (*ready-stock*) serta pengajuan pesanan kustom (*custom cake pre-order*) dengan unggah foto referensi desain dan penyesuaian dekorasi.
 
@@ -16,7 +16,7 @@ Aplikasi mobile pemesanan kue dan produk bakery berbasis UMKM. Mendukung pembeli
 ---
 
 ## Latar Belakang
-UMKM bakery sering menghadapi kendala dalam pencatatan pesanan khusus (*custom cake*), pengelolaan variasi dekorasi, dan transparansi status pesanan pelanggan. Novelist Bakery mendigitalisasi operasional toko kue melalui REST API mandiri dan aplikasi mobile Flutter, mencakup katalog produk, pengunggahan foto referensi pesanan kustom, penentuan harga terkurasi, dan pemantauan status produksi.
+UMKM bakery sering menghadapi kendala dalam pencatatan pesanan khusus (*custom cake*), pengelolaan variasi dekorasi, dan transparansi status pesanan pelanggan. SweetCraft mendigitalisasi operasional toko kue melalui REST API mandiri dan aplikasi mobile Flutter, mencakup katalog produk, pengunggahan foto referensi pesanan kustom, penentuan harga terkurasi, dan pemantauan status produksi.
 
 ---
 
